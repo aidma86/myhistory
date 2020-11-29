@@ -1,1 +1,1 @@
-from myproject.history.views.history.history_all import history_all, history_search
+from .history_all import history_all, history_search
